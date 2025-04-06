@@ -41,7 +41,7 @@ To run the simulation use the following command:
 ```
 ├── brownian_motion.py      # Python module with simulation logic
 ├── simulation.py           # Sample app to run the simulation
-├── robot_simulation.gif    # Demo of the running simulation
+├── solution.mp4    # Demo of the running simulation
 ├── requirements.txt        # Python dependencies
 └── README.md               # You're here!
 
