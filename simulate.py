@@ -1,5 +1,5 @@
-import matplotlib.pyplot as plt
-import matplotlib.animation as animation
+import matplotlib.pyplot as plt # type: ignore
+import matplotlib.animation as animation 
 from brownian_motion import Robot
 
 # Define arena size
