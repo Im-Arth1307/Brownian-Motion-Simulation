@@ -36,12 +36,15 @@ To run the simulation use the following command:
   python simulation.py
 ```
 
+## Demo
+![Simulation Demo](gif_solution.gif)
 
 ## Project Structure
 ```
 ├── brownian_motion.py      # Python module with simulation logic
 ├── simulation.py           # Sample app to run the simulation
-├── solution.mp4    # Demo of the running simulation
+├── video_solution.mp4      # Demo of the running simulation in mp4 format
+├── gif_solution.gif      # Demo of the running simulation in gif format
 ├── requirements.txt        # Python dependencies
 └── README.md               # You're here!
 
